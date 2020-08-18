@@ -1,0 +1,20 @@
+type=button	The button is a clickable button
+
+
+template https://startbootstrap.com/previews/agency/
+
+
+link bootstrap https://getbootstrap.com/docs/4.3/getting-started/introduction/
+
+workshop
+visual studio code
+link bootstrapp
+custom css
+
+
+
+
+
+all css clases https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp
+
+ASK QUESTIONS AT THE END

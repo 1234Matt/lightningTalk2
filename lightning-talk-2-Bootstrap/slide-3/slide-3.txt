@@ -1,0 +1,7 @@
+	DIVS, etc...
+
+- easy styled divisions
+
+<div class="jumbotron">
+  <h1 class="text-center" >Hello, world!</h1>
+</div>

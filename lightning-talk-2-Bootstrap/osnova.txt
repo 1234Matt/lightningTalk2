@@ -1,0 +1,49 @@
+		========LIGTHNING TALK - 2=========
+
+
+	BOOTSTRAP - co bude v přednášce?  - 1 slide
+  - 7 minut dlouhá
+  - ukážeme si jak bootstrap funguje
+  - jak ho googlit (šablony) classy
+  - a na konci vytvoříme rychlou stránku během 2 minut :))
+
+
+--------------------------------
+
+co tam bude?
+
+
+
+	SHOW IT CONCEPTUALY - with code snippets  - 3-5 slides
+
+  - bootstrap - takhle fungujou classy
+  - takhle fungujou divy atp. 
+  - takhle funguje když si stáhnete šablonu :) 
+  - "copy paste" :))
+  - overwrite default bootstrap   - easy (musíš dát link pod ten první v html)
+	
+
+
+	BOOTSTRAP - extra info 3-slides
+
+  - bootstrap - on-line link (dá se i stáhnout - bez vysvětlení)
+  - co to je bootstrap? Css a javascript, vše customizovatelné a viditelné když to člověk stáhne
+  - there are other frameworks (google and mantion maybe :))
+  - https://getbootstrap.com/
+
+  - on-line šablony free i paid
+
+
+
+	BOOTSTRAP WORKSHOP - 2 minute website - 1 slide - finish version? 
+
+  - create on-line fast website
+
+
+
+	BOOTSTRAP END AND QUESTIONS - 1 slide
+
+  - Thank you for your attantion
+  - Any questions? :) (1- 1,5 minutes? top 3 minutes? :) ))
+
+
